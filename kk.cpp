@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    cout<<"dasdsa"<<endl;
+    cout<<"20/2022"<<endl;
 
     return 0;
 }
